@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-
 ## This function creates a list with functions that set the value of the matrix and the inverse
 ## and get the value of the matrix and inverse.
 
